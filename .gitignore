@@ -1,2 +1,4 @@
 /data/
 .DS_Store
+/includes/db_config.php
+/Claude outputs/
