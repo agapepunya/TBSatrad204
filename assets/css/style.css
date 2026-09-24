@@ -134,13 +134,13 @@ form input:focus { outline: none; border-color: var(--color-primary); }
 .empty-row { color: var(--color-text-muted); font-style: italic; text-align: center; }
 
 .landing-logo {
-  width: 120px;
+  width: 56px;
   height: auto;
   margin: 0 auto 16px;
   display: block;
 }
 .app-header-logo {
-  height: 36px;
+  height: 28px;
   width: auto;
   display: block;
 }
