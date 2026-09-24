@@ -16,13 +16,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-$page_title = 'Login Admin Gudang';
+$page_title = 'Login Admin TB';
 include __DIR__ . '/../includes/header.php';
 ?>
 <div class="auth-page">
   <div class="auth-box">
     <a href="/" class="back-link">&larr; Kembali</a>
-    <h1>Login Admin Gudang</h1>
+    <h1>Login Admin TB</h1>
     <?php if ($error): ?>
       <div class="alert alert-error"><?= htmlspecialchars($error) ?></div>
     <?php endif; ?>

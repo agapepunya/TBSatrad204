@@ -30,7 +30,7 @@ include __DIR__ . '/../includes/header.php';
   <div class="auth-box">
     <a href="/" class="back-link">&larr; Kembali</a>
     <h1>Akses Pengguna</h1>
-    <p class="section-hint">Masukkan key akses yang diberikan oleh Admin Gudang.</p>
+    <p class="section-hint">Masukkan key akses yang diberikan oleh Admin TB.</p>
     <?php if ($error): ?>
       <div class="alert alert-error"><?= htmlspecialchars($error) ?></div>
     <?php endif; ?>

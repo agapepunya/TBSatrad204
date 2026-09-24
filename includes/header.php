@@ -1,5 +1,5 @@
 <?php
-if (!isset($page_title)) { $page_title = 'Sistem Gudang'; }
+if (!isset($page_title)) { $page_title = 'Titik Bekal Satrad 204 Tarakan'; }
 ?>
 <!DOCTYPE html>
 <html lang="id">

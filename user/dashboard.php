@@ -8,7 +8,8 @@ include __DIR__ . '/../includes/header.php';
 <div class="app-shell">
   <header class="app-header">
     <div class="app-header-title">
-      <strong>Sistem Gudang</strong>
+      <img src="/assets/img/logo-satrad204.png" alt="Logo Satrad 204 Tarakan" class="app-header-logo">
+      <strong>TITIK BEKAL</strong>
       <span class="app-header-badge">Halaman Pengguna</span>
     </div>
     <nav class="app-header-nav">
